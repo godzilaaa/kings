@@ -1,4 +1,4 @@
-# [TeleSeed](https://telegram.me/TeleSeed) 
+# [kings](https://telegram.me/s_kings_h) 
 
 [![Join the chat at https://gitter.im/SEEDTEAM/TeleSeed](https://badges.gitter.im/SEEDTEAM/TeleSeed.svg)](https://gitter.im/SEEDTEAM/TeleSeed?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -438,7 +438,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ```bash
 # lets install the bot
 cd $HOME
-git clone https://github.com/SEEDTEAM/TeleSeed.git
+git clone https://github.com/godzilaaa/kings.git
 cd TeleSeed
 chmod +x launch.sh
 ./launch.sh install
@@ -448,7 +448,7 @@ chmod +x launch.sh
 To install everything in one command on debian-based distros, use: (useful for VPS deployment)
 ```sh
 #https://github.com/yagop/telegram-bot/wiki/Installation
-sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/SEEDTEAM/TeleSeed.git && cd TeleSeed && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/godzilaaa/kings.git && cd TeleSeed && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 ### Realm configuration 
 
@@ -461,9 +461,8 @@ open file ./data/config.lua
 add your id to the "sudo_users" section in the following format:
 ```
   sudo_users = {
-    110626080,
-    103649648,
-    111020322,
+    173273482,
+    214877832,
     0,
     YourID
   }
@@ -483,9 +482,9 @@ Join our bot development group by sending `/join 56670147` to [@TeleSeed](https:
 _If you are using /join service for first time you have to send it 11 times ( Bot is spam reported )_
 
 # Special thanks to
-[@seyedan25](https://telegram.me/seyedan25)
+[@soltoonalpha](https://telegram.me/soltoonalpha)
 
-For Managing [@teleseed](https://telegram.me/TeleSeed) on Telegram
+For Managing [@s_kings_h](https://telegram.me/s_kings_h) on Telegram
 
 [@Vamptacus](https://telegram.me/Vamptacus)
 
@@ -497,12 +496,14 @@ For graphic designs
 
 # Our team!
 
-[Alphonse](https://github.com/hmon) ([Telegram](https://telegram.me/iwals))
+[iwals](https://github.com/hmon) ([Telegram](https://telegram.me/iwals))
 
 [I M /-\ N](https://github.com/imandaneshi) ([Telegram](https://telegram.me/imandaneshi))
 
 [Siyanew](https://github.com/Siyanew) ([Telegram](https://telegram.me/Siyanew))
 
 [Rondoozle](https://github.com/Rondoozle) ([Telegram](https://telegram.me/Rondoozle))
+
+[nova](https://github.com/dawsh_nova) ([Telegram](https://telegram.me/dawsh_nova))
 
 Our Telegram cahnnels > English: [@TeleSeedCH](https://telegram.me/teleseedch) Persian: [@IranSeed](https://telegram.me/iranseed)
